@@ -1,7 +1,6 @@
 # CreationOfMaze
 MazeCreator
 
-##Creating Maze
 We know that if we want to run a graph we can use either the [Depth First](https://en.wikipedia.org/wiki/Depth-first_search) or 
 the [Breath First Search](https://en.wikipedia.org/wiki/Breadth-first_search). We also know that these methods correspond to ways 
 of exploring a maze. Ιn this project used the reverse way. More specifically, we think we have a graph nxn. The nodes correspond 
